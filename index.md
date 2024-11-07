@@ -7,11 +7,15 @@ permalink: /
 ---
 # CoderDojo Lund, Sweden
 
-**Datorprogrammering för dig som är 7 till 17 år. Inga förkunskaper. Begränsat antal platser. BOKA PLATS HÄR**
+🇺🇦 🇺🇦 **Datorprogrammering för dig som är 7 till 17 år. Inga förkunskaper. Begränsat antal platser.**
+
 
 <!--Ticket Tailor Widget. Paste this into your website where you want the widget to appear. Do not change the code or the widget may not work properly.-->
 <div class="tt-widget"><div class="tt-widget-fallback"><br /></div><script data-inline-bg-fill="false" data-inline-inherit-ref-from-url-param="" data-inline-minimal="true" data-inline-ref="website_widget" data-inline-show-logo="false" data-type="inline" data-url="https://www.tickettailor.com/all-tickets/coderdojolund/" src="https://cdn.tickettailor.com/js/widgets/min/widget.js"></script></div>
 <!--End of Ticket Tailor Widget-->
+<p align="center">
+    <img src="images/coderdojo-logo.png" alt="CoderDojo logo" width="40%">
+</p>
 
 - Bokningen öppnar ungefär en månad i förväg
 - Det går bara att väntelista en ninja åt gången. Vill du väntelista flera så upprepa bokningsproceduren
