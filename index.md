@@ -20,11 +20,10 @@ permalink: /
 - Bokningen öppnar ungefär en månad i förväg
 - Det går bara att väntelista en ninja åt gången. Vill du väntelista flera så upprepa bokningsproceduren
 - Anmälan är obligatorisk för fikaplaneringens skull :) och man anmäler/väntelistar sig till varje tillfälle
-- Måndagar, udda vecka, håller vi till på Alfatorget i Alfa 6 med ingång från Scheelevägen 15. [Google Maps](https://www.google.se/maps/dir/55.7133046,13.292865/55.712599,13.2155606/@55.7125408,13.215084,69m/data=!3m1!1e3!4m5!4m4!1m1!4e1!1m0!3e0?hl=en)
-- Tisdagar, jämn vecka, är vi på Vattenhallen Science Center, John Ericssons väg 1E
+- Måndagar, udda vecka, håller vi till på Alfatorget i Alfa 6 med ingång från Scheelevägen 15H. [Google Maps: Ekonomihögskolans bibliotek](https://maps.app.goo.gl/ubgcMqqw7idD7JLJ6)
+- Tisdagar, jämn vecka, är vi på Vattenhallen Science Center, John Ericssons väg 1E. [Google Maps](https://maps.app.goo.gl/TMhEfFPGSss6qcQb9)
 
-**Hur fungerar väntelistan?** Vi skickar besked via e-post om det blir platser lediga, ibland med kort varsel. En väntelistning gäller bara det givna datumet. Vi förbehåller oss rätten att ta in ungdomar av underrepresenterat kön oavsett plats på väntelistan.
-
+**Hur fungerar väntelistan?** Vi skickar besked via mejl om det blir platser lediga, ibland med kort varsel. En väntelistning gäller bara det givna datumet. Vi förbehåller oss rätten att ta in ungdomar av underrepresenterat kön oavsett plats på väntelistan.
 
 **Är CoderDojo en kurs?** Nej, det är inte en vanlig kurs där du måste delta varje gång. Anmäl dig så att vi vet hur mycket fika som kommer att gå åt.
 
@@ -35,14 +34,20 @@ permalink: /
 **Vem driver CoderDojo?** Det är inte ett företag eller organisation som ligger bakom CoderDojo Lund, utan vi kommer från många olika håll, bland annat Robert Bosch, VertiGIS, Acconeer och Lunds Universitet. Vi samarbetar med vår förebild CoderDojo Malmö som drivs av Foo Café.
 
 Vi är många! CoderDojo Lund ingår i nätverket CoderDojo som är en irländsk, global och ideell rörelse med klubbar för barn och ungdomar som vill lära sig att programmera.
-Vi finns också på Facebook.
+Vi finns också på [Facebook](https://www.facebook.com/CoderDojoLund/).
 
 
 **Kan jag vara mentor eller sponsringsansvarig?** Javisst, kontakta oss!
 
-[Olle Strömbeck, en av våra grundare, presenterade CoderDojo redan på TeachMeet Syd 2012 i Lund](https://www.youtube.com/watch?v=YsHCjSjgzx4&t=4s)
+![image](https://github.com/user-attachments/assets/10d745e6-c5d9-4b37-9a9b-be1f5b064bf0)
 
-Tack till [Swedbanks Ägarstiftelse Skåne](https://www.swedbanksagarstiftelseskane.se/) för sponsring och till [Qlik](https://www.qlik.com/us) och [Sony Mobile i Lund](https://electronics.sony.com) för lånedatorer. 
+Tack till [Sparbanken Skåne](https://www.sparbankenskane.se) för sponsring och till [Qlik](https://www.qlik.com/us) och [Sony Mobile i Lund](https://electronics.sony.com) för lånedatorer. 
 Tack också till [Robert Bosch](https://www.bosch.se/nyheter/bosch-r-d-lund/) och [VertiGIS](https://support.vertigis.com/hc/sv) för sponsrad arbetstid.
 
 ![CoderDojo-gänget vid Vattenhallen 2022](images/vattenhallen-IMG_20221004_165713.jpg)
+
+## Vi startade 2012 som ett samarbete med Tunaskolan
+
+![image](https://github.com/user-attachments/assets/c2fd2e89-1a0a-47a2-bc6b-d37c30d6e964)
+[Olle Strömbeck, en av våra grundare, presenterade CoderDojo redan på TeachMeet Syd 2012 i Lund](https://www.youtube.com/watch?v=YsHCjSjgzx4)
+
