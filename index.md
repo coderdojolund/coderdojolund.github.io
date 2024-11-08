@@ -45,3 +45,4 @@ Vi finns också på Facebook.
 Tack till [Swedbanks Ägarstiftelse Skåne](https://www.swedbanksagarstiftelseskane.se/) för sponsring och till [Qlik](https://www.qlik.com/us) och [Sony Mobile i Lund](https://electronics.sony.com) för lånedatorer. 
 Tack också till [Robert Bosch](https://www.bosch.se/nyheter/bosch-r-d-lund/) och [VertiGIS](https://support.vertigis.com/hc/sv) för sponsrad arbetstid.
 
+![CoderDojo-gänget vid Vattenhallen 2022](images/vattenhallen-IMG_20221004_165713.jpg)
