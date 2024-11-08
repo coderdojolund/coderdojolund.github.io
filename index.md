@@ -1,8 +1,8 @@
 ---
-title: Home
+title: Hem
 layout: home
 nav_order: 1
-description: "Welcome"
+description: "Välkommen"
 permalink: /
 ---
 # CoderDojo Lund, Sweden
