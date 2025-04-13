@@ -7,7 +7,7 @@ permalink: /
 ---
 # CoderDojo Lund, Sweden
 
-🇺🇦 🇺🇦 **Datorprogrammering för dig som är 7 till 17 år. Inga förkunskaper. Begränsat antal platser.**
+**Datorprogrammering för dig som är 7 till 17 år. Inga förkunskaper. Begränsat antal platser.** 🇺🇦 🇺🇦
 
 
 <!--Ticket Tailor Widget. Paste this into your website where you want the widget to appear. Do not change the code or the widget may not work properly.-->
